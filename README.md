@@ -15,3 +15,6 @@ name - имя ключа в редисе
 body: {key: string, value: string}
 
 key - ключ, value - значение
+
+### ENV
+Переменные лежат в `.env`
